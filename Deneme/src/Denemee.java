@@ -6,6 +6,10 @@ public class Denemee {
 		System.out.println("Hello Git");
 		System.out.println("That s the word.");
 		System.out.println("Bu da 3. satýrým.");
+		
+		for (int i=1;i<6;i++){
+			System.out.println(i);
+		}
 	}
 
 }
