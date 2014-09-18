@@ -1,3 +1,5 @@
+//import java.io.Console;
+
 
 public class Denemee {
 
@@ -10,6 +12,10 @@ public class Denemee {
 		for (int i=1;i<6;i++){
 			System.out.println(i);
 		}
+		
+		//Console cons = System.console();
+		//char[] pswd = cons.readPassword("Þifreniz : ");
+		//System.out.println(pswd);
 	}
 
 }
